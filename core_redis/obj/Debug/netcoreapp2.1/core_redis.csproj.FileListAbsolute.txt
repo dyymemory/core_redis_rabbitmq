@@ -1,0 +1,12 @@
+D:\DemoTest\core_redis_rabbitmq\core_redis\bin\Debug\netcoreapp2.1\core_redis.deps.json
+D:\DemoTest\core_redis_rabbitmq\core_redis\bin\Debug\netcoreapp2.1\core_redis.dll
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.csproj.CoreCompileInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.AssemblyInfoInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.AssemblyInfo.cs
+D:\DemoTest\core_redis_rabbitmq\core_redis\bin\Debug\netcoreapp2.1\core_redis.pdb
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.csprojAssemblyReference.cache
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.dll
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.pdb
+D:\DemoTest\core_redis_rabbitmq\core_redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+D:\DemoTest\core_redis_rabbitmq\core_redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.xml
+D:\DemoTest\core_redis_rabbitmq\core_redis\obj\Debug\netcoreapp2.1\core_redis.csproj.CopyComplete

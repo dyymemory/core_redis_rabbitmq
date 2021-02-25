@@ -1,0 +1,9 @@
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\bin\Debug\netcoreapp2.1\core_rabbitmq.deps.json
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\bin\Debug\netcoreapp2.1\core_rabbitmq.dll
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.csproj.CoreCompileInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.AssemblyInfoInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.AssemblyInfo.cs
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.csprojAssemblyReference.cache
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\bin\Debug\netcoreapp2.1\core_rabbitmq.pdb
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.dll
+D:\DemoTest\core_redis_rabbitmq\core_rabbitmq\obj\Debug\netcoreapp2.1\core_rabbitmq.pdb

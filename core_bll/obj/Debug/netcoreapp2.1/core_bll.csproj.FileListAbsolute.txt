@@ -1,0 +1,16 @@
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_dal.dll
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_utilities.dll
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.csprojAssemblyReference.cache
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.csproj.CoreCompileInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.AssemblyInfoInputs.cache
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.AssemblyInfo.cs
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_bll.deps.json
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_bll.dll
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_bll.pdb
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_dal.pdb
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\core_utilities.pdb
+D:\DemoTest\core_redis_rabbitmq\core_bll\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.csproj.CopyComplete
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.dll
+D:\DemoTest\core_redis_rabbitmq\core_bll\obj\Debug\netcoreapp2.1\core_bll.pdb
